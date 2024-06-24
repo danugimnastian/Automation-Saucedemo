@@ -9,5 +9,4 @@ This repository contains automation tests for the [SauceDemo](https://www.sauced
 - Checkout
 - Logout
 
-## Test Case & Test Scenario
-You can check the detailed Test Case & Test Scenario at the [Manual Test Case](https://docs.google.com/spreadsheets/d/1Ocm_K0jNtBharLcUxd49Dme1AdU67lgbbOtcqe9p2OY/edit?usp=sharing/).
+
